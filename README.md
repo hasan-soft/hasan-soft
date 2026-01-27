@@ -46,9 +46,18 @@ Always eager to learn, build, and grow as a professional developer.
 ---
 
 ## 🌐 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/hasan9218)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/your-twitter)
+## 📞 Contact & Connect
+
+📍 Dhaka, Bangladesh  
+✉️ [hasanbhuiyan503@gmail.com](mailto:hasanbhuiyan503@gmail.com)  
+🌐 [Portfolio](https://hasan-bhuiyans.vercel.app/)  
+📱 [WhatsApp](https://wa.me/8801719103858)  
+
+🐙 GitHub: [hasan-soft](https://github.com/hasan-soft/hasan-soft/)  
+💼 LinkedIn: [hasan-soft](https://www.linkedin.com/in/hasan-soft/)  
+📘 Facebook: [hasan.soft503](https://www.facebook.com/hasan.soft503)  
+📸 Instagram: [hasan_soft503](https://www.instagram.com/hasan_soft503/)
+
 
 ---
 
