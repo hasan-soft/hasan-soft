@@ -66,15 +66,10 @@ Always eager to learn, build, and grow as a professional developer.
 
 ![Metrics](https://metrics.lecoq.io/https://github.com/hasan-soft?template=classic&base=header,activity&plugin_followup=1)
 
-## 📊 Hasan Bhuiyan's GitHub Stats
+## 💻 Most Used Languages
 
-- ⭐ Total Stars Earned: **0**
-- 🧾 Total Commits (Last Year): **448**
-- 🔀 Total PRs: **1**
-- ❗ Total Issues: **0**
-- 🤝 Contributed To (Last Year): **2**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&theme=react)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasan-soft&show_icons=true&theme=tokyonight)
 
 
 
