@@ -61,6 +61,8 @@ Always eager to learn, build, and grow as a professional developer.
 ---
 
 ## 📊 Hasan Bhuiyan's GitHub Stats
+![Metrics](https://metrics.lecoq.io/hasan-soft?template=classic&base=header,activity,community,repositories,metadata)
+
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=hasan-soft&show_icons=true&include_all_commits=true&count_private=true&theme=react)
 
