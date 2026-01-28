@@ -61,7 +61,9 @@ Always eager to learn, build, and grow as a professional developer.
 ---
 
 ## 📊 Hasan Bhuiyan's GitHub Stats
-![Metrics](https://metrics.lecoq.io/hasan-soft?template=classic&base=header,activity,community,repositories,metadata)
+## 📊 Nusrat Jahan's GitHub Stats
+
+![GitHub Metrics](https://metrics.lecoq.io/nusratjahan?template=classic&base.header=1&base.activity=1&base.community=1&base.repositories=1&base.metadata=1)
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=hasan-soft&show_icons=true&include_all_commits=true&count_private=true&theme=react)
