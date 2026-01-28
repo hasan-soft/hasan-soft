@@ -46,7 +46,6 @@ Always eager to learn, build, and grow as a professional developer.
 ---
 
 ## 🌐 Connect With Me
-## 📞 Contact & Connect
 
 📍 Dhaka, Bangladesh  
 ✉️ [hasanbhuiyan503@gmail.com](mailto:hasanbhuiyan503@gmail.com)  
@@ -61,13 +60,24 @@ Always eager to learn, build, and grow as a professional developer.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Hasan Bhuiyan's GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasan9218&show_icons=true&theme=radical)
+![GitHub Metrics](https://metrics.lecoq.io/https://github.com/hasan-soft?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&plugin_activity=1&plugin_activity_limit=5&plugin_languages=1&plugin_languages_ignored=html,css&plugin_languages_details=bytes-size,percentage&plugin_achievements=1&plugin_achievements_display=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan9218&layout=compact&theme=radical)
+![Metrics](https://metrics.lecoq.io/https://github.com/hasan-soft?template=classic&base=header,activity&plugin_followup=1)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasan9218&theme=radical)
+## 📊 Hasan Bhuiyan's GitHub Stats
+
+- ⭐ Total Stars Earned: **0**
+- 🧾 Total Commits (Last Year): **448**
+- 🔀 Total PRs: **1**
+- ❗ Total Issues: **0**
+- 🤝 Contributed To (Last Year): **2**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hasan-soft&show_icons=true&theme=tokyonight)
+
+
+
 
 ---
 
