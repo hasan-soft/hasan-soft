@@ -68,7 +68,7 @@ Always eager to learn, build, and grow as a professional developer.
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-soft&layout=compact&langs_count=6&theme=react)
 
 
 
