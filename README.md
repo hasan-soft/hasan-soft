@@ -62,9 +62,12 @@ Always eager to learn, build, and grow as a professional developer.
 
 ## 📊 Hasan Bhuiyan's GitHub Stats
 
-![GitHub Metrics](https://metrics.lecoq.io/https://github.com/hasan-soft?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&plugin_activity=1&plugin_activity_limit=5&plugin_languages=1&plugin_languages_ignored=html,css&plugin_languages_details=bytes-size,percentage&plugin_achievements=1&plugin_achievements_display=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=hasanbhuiyan503&show_icons=true&theme=react)
 
-![Metrics](https://metrics.lecoq.io/https://github.com/hasan-soft?template=classic&base=header,activity&plugin_followup=1)
+![Streak](https://streak-stats.demolab.com?user=hasanbhuiyan503&theme=react)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanbhuiyan503&layout=compact&theme=react)
+
 
 ## 💻 Most Used Languages
 
