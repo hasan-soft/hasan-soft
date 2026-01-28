@@ -62,11 +62,11 @@ Always eager to learn, build, and grow as a professional developer.
 
 ## 📊 Hasan Bhuiyan's GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hasanbhuiyan503&show_icons=true&theme=react)
+![Stats](https://github-readme-stats.vercel.app/api?username=hasan-soft&show_icons=true&theme=react)
 
-![Streak](https://streak-stats.demolab.com?user=hasanbhuiyan503&theme=react)
+![Streak](https://streak-stats.demolab.com?user=hasan-soft&theme=react)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanbhuiyan503&layout=compact&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-soft&layout=compact&theme=react)
 
 
 ## 💻 Most Used Languages
